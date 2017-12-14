@@ -4,6 +4,7 @@ Desktop app to generate EAN-13, EAN-8 and EAN-5 barcodes (other types are coming
 
 *Requirements*
 - Standart python3 modules
+- [Pillow](https://pypi.python.org/pypi/Pillow/4.3.0)
 - [PyUPC-EAN](https://pypi.python.org/pypi/PyUPC-EAN/)
 
 Usage
