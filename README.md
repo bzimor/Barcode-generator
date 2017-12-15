@@ -1,5 +1,5 @@
 # Barcode-generator
-Desktop app to generate EAN-13, EAN-8 and EAN-5 barcodes (other types are coming soon) automatically and save them as PDF or PNG, JPEG GIF image files with several sizes
+Desktop app to generate EAN-13, EAN-8 and EAN-5 barcodes (other types are coming soon) automatically and save them as PDF or PNG, JPEG GIF image files with several sizes. As a database it uses native python csv module and saves as csv file.
 (Using PyUPC-EAN module)
 
 *Requirements*
